@@ -24,6 +24,7 @@
     * [产品与开发配合规范](part/section21.md)
     * [产品与运营配合规范](part/section22.md)
     * [产品测试与验收](part/section23.md)
+    * [新产品功能推荐](part/section35.md)
 * [产品设计后](part/section24.md)
     * [用户体验跟踪](part/section25.md)
     * [用户使用行为数据分析](part/section26.md)
